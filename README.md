@@ -406,25 +406,3 @@ We welcome contributions! Please follow these steps:
 5. Open a Pull Request.
 
 ---
-
-## 👥 Meet Team Tech Titans
-
-We are **Tech Titans**, a passionate team of developers who brought Interview Sarthi to life! Here is our team structure:
-
-| Team Member | Role | Responsibilities |
-|---|---|---|
-| **Suryansh Singh** *(Team Lead)* | Project Lead & QA | Managed project planning, coordinated the team, integrated modules, conducted testing, debugging, deployment, and ensured overall project quality. |
-| **Shivam Jaiswal** | Frontend Developer | Designed and developed the responsive UI, implemented React components, routing, dashboards, animations, and user experience. |
-| **Anushka Singh** | Backend Developer | Developed REST APIs, database models, authentication, AI integration, server logic, and backend architecture. |
-| **Diya Srivastava** | Documentation & Presentation | Prepared project documentation, PPT, reports, workflow diagrams, and coordinated project presentation materials. |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-<div align="center">
-  <i>Built by Team: Tech Titans</i>
-</div>
